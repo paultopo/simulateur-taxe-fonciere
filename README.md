@@ -1,6 +1,6 @@
 # Simulateur de taxe foncière – Locaux professionnels
 
-![Aperçu du simulateur](apercu.png)
+<img width="1200" height="630" alt="apercu" src="https://github.com/user-attachments/assets/a2f5a5bd-9016-4144-be67-307d1b0ea9a7" />
 
 Calculatrice gratuite pour estimer la taxe foncière d'un local professionnel, suivant la valeur locative révisée (RVLLP).
 
