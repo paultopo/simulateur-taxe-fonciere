@@ -22,3 +22,9 @@ Le menu **Tarifs** permet de choisir l'année, de 2017 à 2026.
 
 ## Avertissement
 Les résultats sont **purement indicatifs** et ne constituent pas un avis fiscal. Habitations exclues.
+
+## Droits
+**© 2026 – Tous droits réservés.**
+Le code, la mise en forme et le traitement des données de ce simulateur sont protégés. Toute reproduction, copie, modification ou réutilisation, totale ou partielle, est interdite sans autorisation écrite préalable. Voir le fichier [LICENSE](LICENSE).
+
+Les données sources restent la propriété de leurs producteurs (DGFiP, IGN, Base Adresse Nationale).
