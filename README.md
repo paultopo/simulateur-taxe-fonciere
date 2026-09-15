@@ -4,7 +4,7 @@
 
 Calculatrice gratuite pour estimer la taxe foncière d'un local professionnel, suivant la valeur locative révisée (RVLLP).
 
-👉 **Accéder au simulateur :** [https://COMPTE.github.io/simulateur-taxe-fonciere/](https://github.com/paultopo/simulateur-taxe-fonciere)
+👉 **Accéder au simulateur :** (https://github.com/paultopo/simulateur-taxe-fonciere)
 
 ## Utilisation
 1. **Localiser le bien** : saisissez l'adresse ou déplacez-vous sur la carte cadastrale.
